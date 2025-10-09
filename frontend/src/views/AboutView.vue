@@ -1,9 +1,3 @@
-<template>
-  <div class="about">
-    <h1>Редактор</h1>
-  </div>
-</template>
-
 <style>
 @media (min-width: 1024px) {
   .about {
@@ -13,3 +7,9 @@
   }
 }
 </style>
+
+<template>
+  <div class="about">
+    <h1>Редактор</h1>
+  </div>
+</template>
